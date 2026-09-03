@@ -45,7 +45,7 @@ while True:
         tools=[
             {
                 "type": "mcp",
-                "server_label": "mcp-workshop",
+                "server_label": "depmap-mcp",
                 "server_url": MCP_SERVER_URL,
                 "require_approval": "never",
             }
